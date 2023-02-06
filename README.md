@@ -1,4 +1,5 @@
-# simplex
+# Django blog app <a href='https://www.theaibunny.com/'>see it live </a>
+
 blog app
 
 ## .env
